@@ -11,6 +11,6 @@
 <div style="display: inline_block"><br>
     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://im.ezgif.com/tmp/ezgif-1-9b63f9e2ee61.gif">
 </div>
-<div>
+
   ![Snake animation](https://github.com/kimberlyledio/kimberlyledio/blob/output/github-contribution-grid-snake.svg)
-</div>
+
