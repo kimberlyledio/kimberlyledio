@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimberlyledio&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://im.ezgif.com/tmp/ezgif-1-9b63f9e2ee61.gif">
+
 </div>
 
   ![Snake animation](https://github.com/kimberlyledio/kimberlyledio/blob/output/github-contribution-grid-snake.svg)
