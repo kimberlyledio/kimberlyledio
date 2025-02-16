@@ -52,12 +52,12 @@
 <div align="left">
     <img
         alt="GitHub Stats"
-        height="200"
+        height="150"
         src="https://github-readme-stats.vercel.app/api?username=kimberlyledio&show_icons=true&locale=pt-br&theme=dracula"
     />
     <img 
         alt="GitHub Stats"
-        height="200"
+        height="150"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimberlyledio&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"
     />
 </div>
